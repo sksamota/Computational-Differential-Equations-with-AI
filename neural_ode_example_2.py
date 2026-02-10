@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1GWBUYokRJHqong8uUGbe_VC50aPngb--
 """
 
-!pip install torchdiffeq
 
 import torch
 import torch.nn as nn
