@@ -1,0 +1,6 @@
+torch
+torchdiffeq
+numpy
+scipy
+matplotlib
+streamlit
